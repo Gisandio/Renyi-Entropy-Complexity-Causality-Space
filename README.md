@@ -1,4 +1,4 @@
-# Renyi-Entropy-Complexity-Causality-Space
+# Rényi-Entropy-Complexity-Causality-Space
 This repository contains example code for the paper titled “Rényi Entropy-Complexity Causality Space: A Novel Neurocomputational Tool for Detecting Scale-Free Features in EEG/iEEG Data” ([10.3389/fncom.2024.1342985](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2024.1342985/abstract)).
 
 These codes implement the ordpy library to apply the Bandt and Pompe methodology (A. A. B. Pessa, H. V. Ribeiro, ordpy: A Python package for data analysis with permutation entropy and ordinal network methods, Chaos 31, 063110 (2021). arXiv:2102.06786. https://arthurpessa.github.io/ordpy/_build/html/index.html).
